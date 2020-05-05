@@ -1,4 +1,5 @@
 # COVID-19 Daily Confirmed Cases In Ontario and Hong Kong
+Medium blog post: https://medium.com/@jasonho_83059/covid-19-a-contrast-between-hong-kong-and-ontario-canada-e133bb95c9e2
 
 ## Installations
 There are two specific libraries used: in this project for fitting a Generalized Addiitive Model: statsmodels (GLMGam, BSplines)
