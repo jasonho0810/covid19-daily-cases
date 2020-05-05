@@ -1,1 +1,1 @@
-# covid19-daily-confirmed-cases
+# COVID19 Daily Confirmed Cases
