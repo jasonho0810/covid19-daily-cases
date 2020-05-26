@@ -18,7 +18,7 @@ All statistical analysis can be performed by running the respective Jupyter note
 pip3 install -r requirements.txt
 ```
 * NumPy, pandas
-* GLMGam, BSplines
+* statsmodels
 * pycountry
 * Prohpet
 * Plotly
