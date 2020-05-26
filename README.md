@@ -1,4 +1,4 @@
-#COVID-19 Daily Confirmed Cases In Ontario and Hong Kong
+# COVID-19 Daily Confirmed Cases In Ontario and Hong Kong
 Medium blog post 1: https://medium.com/@jasonho_83059/covid-19-a-contrast-between-hong-kong-and-ontario-canada-e133bb95c9e2
 Medium blog post 2: https://medium.com/@jasonho_83059/response-to-covid-19-in-ontario-fc8e3557e52d
 
