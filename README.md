@@ -3,10 +3,10 @@ I am interested in Ontario and Hong Kong because I live in Toronto Ontario and m
 However, that does not take away from the commonalities they share in this pandemic. 
 More information is in the blog posts on Medium linked below.
 
-The first blog post fits a Generalized Additive Model to daily confirmed cases in Ontario and Hong Kong for a smooth time trend. 
+The first blog post fits a Generalized Additive Model to daily confirmed cases in Ontario and Hong Kong for a smooth time trend. \
 Medium blog post 1: https://medium.com/@jasonho_83059/covid-19-a-contrast-between-hong-kong-and-ontario-canada-e133bb95c9e2
 
-The second blog post fits an additive Time Series model to daily confirmed cases in Ontario for forecasting.
+The second blog post fits an additive Time Series model to daily confirmed cases in Ontario for forecasting. \
 Medium blog post 2: https://medium.com/@jasonho_83059/response-to-covid-19-in-ontario-fc8e3557e52d
 
 An upcoming third blog post will fit a Generalized Additive Mixed Model to daily confirmed cases in Ontario to extrapolate to uninfected countries.
